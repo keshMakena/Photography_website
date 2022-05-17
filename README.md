@@ -21,7 +21,7 @@ This is a website that showcases a photography studio market where users can che
 * CSS
 * BOOTSTRAP
 ## Livelink.
-"https://bratipah.github.io/Photography-Website/"
+"https://stalwart-cobbler-17882e.netlify.app/"
 ### Bug / Feature Request
 
 If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/keshMakena/Photography_website/issues) by including your search query and the expected result.
